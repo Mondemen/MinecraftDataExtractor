@@ -6,8 +6,8 @@ MinecraftDumper require Java 8 or upper.
 
 # Command
 
-    --version <version> : Minecraft version (ex: 1.13 last) default: last
-    --out <dir> : Output directory, default: Minecraft
+    -version <version> : Minecraft version (ex: 1.13, last) default: last
+    -out <dir> : Output directory, default: Minecraft
 
 # Data extracted
 * blocks (ID and blockstates)
