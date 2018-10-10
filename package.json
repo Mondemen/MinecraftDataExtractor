@@ -1,0 +1,17 @@
+{
+	"name": "MinecodeDataExtractor",
+	"description": "This tool it useful to dump every Minecraft data like blocks ID and his blockstates, items, translations, ...",
+	"version": "1.0.0",
+	"license": "MIT",
+	"author": "Mondemen",
+	"homepage": "https://github.com/Mondemen/MinecraftDumper",
+	"dependencies": {
+		"adm-zip": "~0.4",
+		"request": "~2.83"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Mondemen/MinecraftDumper.git"
+	},
+	"main": "index.js"
+}
